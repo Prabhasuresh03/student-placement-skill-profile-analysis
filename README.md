@@ -49,16 +49,14 @@ Different charts are created to understand:
 
 📁 Files
 
-* `Student_Placement_Skill_Profile_Analysis.ipynb` — Complete Python analysis notebook
+`Student_Placement_Skill_Profile_Analysis.ipynb` — Complete Python analysis notebook
 
  🔍 Key Outcome
 
 The analysis helps understand how students' academic performance and skill-related factors are associated with placement outcomes.
 
 👩‍💻 Author
-S.PRABHA
-B.E. Computer Science Engineering Student
-GitHub: [Prabhasuresh03](https://github.com/Prabhasuresh03)
 
-
-அதுக்கப்புறம் உங்க GitHub project-க்கு **description + topics (Python, Pandas, Data Analytics, EDA)** add பண்ணலாம்.
+   S.PRABHA
+   B.E. Computer Science Engineering Student
+   GitHub: [Prabhasuresh03](https://github.com/Prabhasuresh03)
